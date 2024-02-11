@@ -5,7 +5,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 Tecnologias   |    Projeto   |    Licença
 
 
-🚀 ## Tecnologias
+🚀 ### Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
