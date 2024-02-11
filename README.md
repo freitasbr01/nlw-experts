@@ -2,7 +2,7 @@
 
 💻 ## Projeto
 
-Nesse projeto foi desenvolvido um quiz sobre JavaScript para testar os conhecimentos técnicos e ter um retorno sobre a quantidade de questões que acertadas.
+Nesse projeto foi desenvolvido um quiz sobre JavaScript para testar os conhecimentos técnicos e ter um retorno sobre a quantidade de questões acertadas.
 
 🚀 ## Tecnologias
 
