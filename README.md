@@ -8,9 +8,8 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
+ <a href="#-autor">Autor</a>
 </p>
 
 ## 💻 Sobre o projeto
@@ -21,14 +20,6 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo ensinado fica disponível durante uma semana.
 
 ---
-
-## ⚙️ Funcionalidades
-
-- Empresas ou entidades podem se cadastrar na plataforma web enviando:
-
-  - HTML
-  - CSS
-  - JavaScript
 
 ## 🛠 Tecnologias
 
@@ -46,7 +37,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://blog.rocketseat.com.br/author/Alan/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/137903019?s=400&u=a5d7cc78d579a664a0b95b010c70d153f0265b60&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Alan Freitas</b></sub></a> <a href="https://blog.rocketseat.com.br/author/Alan/">🚀</a>
+ <sub><b>Alan Freitas</b></sub></a> <a href="https://blog.rocketseat.com.br/author/Alan/">🚀
+ </a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanfreitasbr01/)](https://www.linkedin.com/in/alanfreitasbr01/)
