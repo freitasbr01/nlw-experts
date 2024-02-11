@@ -1,10 +1,19 @@
-# nlw-experts
-Projeto realizado no evento da NLW da Rocketseat.
-No projeto foi desenvolvido um Quiz com 10 perguntas sobre javascript. 
+Logo NLW Expert 
 
-## Tecnologias Utilizadas
+Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
+
+Tecnologias   |    Projeto   |    Licença
+
+
+🚀 ## Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
 - JavaScript
-- Github
+
+💻 ## Projeto
+Nesse projeto foi desenvolvido um quiz sobre JavaScript para testar os conhecimentos técnicos e ter um retorno sobre a quantidade de questões que acertadas.
+
+📝 ## Licença
+Esse projeto está sob a licença MIT.
