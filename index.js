@@ -1,5 +1,3 @@
-// Se eu quiser repetir isso para todos eu vou colocar dentro da estrutura de repetição.
-
 const perguntas = [
     {
       pergunta: "Qual é a palavra-chave usada para declarar uma variável em JavaScript?",
@@ -96,7 +94,7 @@ const perguntas = [
   const quiz = document.querySelector('#quiz')
   const template = document.querySelector('template')
   
-  const corretas = new Set() // é um objeto que abre outras opções.
+  const corretas = new Set()
   const totalDePerguntas = perguntas.length
   const mostrarTotal = document.querySelector('#acertos span')
   mostrarTotal.textContent = corretas.size + ' de ' + totalDePerguntas
@@ -114,7 +112,7 @@ const perguntas = [
       dt.querySelector('input').onchange = (event) => {
         const estaCorreta = event.target.value == item.correta
   
-        corretas.delete(item) // se ele encontrar o item, ele vai deletar, estou deletando o item para eu verificar se ele existe, e se ele existir pode colocar de novo. uma razão comum pode ser para garantir  que o Set corretas não contenha o item antes de executar a verificação estaCorreta. Sempre vou deletar os itens mas se for correto adiciono ele e vai fazendo um somatorio de itens.
+        corretas.delete(item)
         if(estaCorreta) {
           corretas.add(item)
         }
@@ -123,14 +121,11 @@ const perguntas = [
       }
   
       quizItem.querySelector('dl').appendChild(dt)
-    }
-    // Para cada item ele vai rodar isso aqui três vezes.
-  
+    }  
   
     quizItem.querySelector('dl dt').remove()
   
   
     quiz.appendChild(quizItem)
-    // Coloca a pergunta na tela
   }
   
